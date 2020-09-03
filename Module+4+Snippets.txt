@@ -1,0 +1,39 @@
+===========
+Snippet for home.component.html
+===========
+
+  <!-- home page html -->
+
+   <div class="text-center">
+  <h1>Find your match</h1>
+  <p class="lead">Come on in to view your matches... All you need to do is sign up!</p>
+  <div class="text-center">
+    <button class="btn btn-primary btn-lg">Register</button>
+    <button class="btn btn-info btn-lg">Learn More</button>
+  </div>
+</div>
+
+===========
+Snippet for register.component.html
+===========
+
+<!-- register page html -->
+
+<form>
+
+  <h2 class="text-center text-primary">Sign Up</h2>
+
+  <hr>
+  <div class="form-group">
+    <input type="text" class="form-control" placeholder="Username">
+  </div>
+
+  <div class="form-group">
+    <input type="password" class="form-control" placeholder="Password">
+  </div>
+
+  <div class="form-group text-center">
+    <button class="btn btn-success" type="submit">Register</button>
+    <button class="btn btn-default" type="button">Cancel</button>
+  </div>
+</form>

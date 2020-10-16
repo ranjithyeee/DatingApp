@@ -1,0 +1,4 @@
+Cloud name: dpu9lr7u2
+Api key: 596753943811761
+Api Secret: kgQXURLSi92qBnXoOizQe-cQAYU
+Api environment variable: CLOUDINARY_URL=cloudinary://596753943811761:kgQXURLSi92qBnXoOizQe-cQAYU@dpu9lr7u2

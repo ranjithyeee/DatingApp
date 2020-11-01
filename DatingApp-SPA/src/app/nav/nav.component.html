@@ -20,7 +20,7 @@
 
     <div *ngIf="loggedIn()" class="dropdown" dropdown>
       <span class="mr-1">
-        <img src="{{authservice.currentUser.photoUrl}}" alt="">
+        <img src="{{authservice.currentUser.photoUrl || '../../../assets/user.png' }}" alt="">
       </span>
       <a class=" dropdown-toggle text-light" dropdownToggle>
         <!-- Welcome User -->
